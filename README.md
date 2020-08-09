@@ -1,1 +1,6 @@
-# bg-generator
+# Background Generator
+
+### Technologies
+```
+HTML, CSS, JS
+```
